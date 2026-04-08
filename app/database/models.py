@@ -1,4 +1,4 @@
-"""Database models for the Orcha workflow system."""
+"""Database models for the Orcha."""
 
 from enum import Enum
 
